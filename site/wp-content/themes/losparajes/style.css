@@ -24,7 +24,7 @@ body.page7 {height: 1750px;}
 
 
 body {	
-    background-image: url(/wp-content/themes/losparajes/images/background.jpg);
+    background-image: url(https://losparajes.es/wp-content/themes/losparajes/images/background.jpg);
     background-position: center;
     background-repeat: repeat-y;
     font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;	
@@ -69,7 +69,7 @@ p {margin: 0 0 9px 0;line-height: 1.4;}
     display: block;
     height: 87px;
     width: 440px;			
-    background-image: url(/wp-content/themes/losparajes/images/LosParajes.png);
+    background-image: url(https://losparajes.es/wp-content/themes/losparajes/images/LosParajes.png);
     text-indent: -5000px;
 }
 
